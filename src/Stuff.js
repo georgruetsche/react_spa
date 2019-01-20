@@ -12,6 +12,7 @@ class Stuff extends Component {
           <li>Nidelzelti</li>
           <li>Linth</li>
           <li>Pudding</li>
+          <li>Cookies</li>
         </ol>
       </div>
     );
